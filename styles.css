@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    color:#F5EBD0;
+    background-color:#1A1A1A;
+    font-family: 'Times New Roman',Georgia,Garamond,sans-serif;
+}
+
+.hpheading{
+    text-align: center;
+    margin:20px;
+}
+
+.hplist{
+    text-align: center;
+    padding-left: 0; 
+    margin:auto;
+}
+
+.nheading{
+    text-align: center;
+}
+
+.cmheading{
+    text-align: center;
+}
+
+.vpheading{
+    text-align: center;
+}
+
+.nimg{
+    display:block;
+    margin: auto;
+}
+
+.cmimg{
+    display:block;
+    margin: auto;
+}
+
+
+.vpimg{
+    display:block;
+    margin: auto;
+}
